@@ -48,15 +48,4 @@ To build a visual analytics tool that:
 
 ## 📈 Outputs
 
-- `InteractiveParkingAnalytics.twbx`: Tableau workbook
-- `dashboard-preview.png`: (Optional) Dashboard snapshot
-
-> ⚠️ Note: Data has been anonymized and does not represent any real-world organization.
-
----
-
-## 💡 Future Improvements
-
-- Add capacity-based utilization metrics (% full per lot)
-- Integrate with real-time data via Tableau Public API
-- Include user-based drilldowns or historical access comparisons
+![image](https://github.com/user-attachments/assets/bd9f4e71-7e9a-4b91-87d2-255595e5bce2)
